@@ -20,7 +20,7 @@ In your favorite browser (which is obviously not Internet Explorer), got to `/` 
 
 ## Travail personnel
 
-_Vous devez être capable de comprendre et d'expliquer comment toute l'application fonctionne._
+_En étudiant l'application en amont du jour du rattrapage, vous devez être capable de comprendre et d'expliquer comment toute l'application fonctionne._
 
 Les fichiers présents
 - dans `styles/` (fichiers `*.css` et `*.map`),
@@ -30,4 +30,4 @@ Les fichiers présents
 ne sont pas à considérer, il est inutile de les analyser pour comprendre le fonctinnement de l'application.
 Concentrez-vous donc sur les fichiers `*.php`.
 
-Lors du rattrapage, vous devrez développer une évolution pour l'application, puis répondre à quelques questions.
+Le jour du rattrapage, il sera considéré que vous connaissez déjà l'application. Vous devrez alors développer une évolution pour l'application, puis répondre à quelques questions et présenter votre code.
