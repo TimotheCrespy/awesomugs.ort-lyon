@@ -16,9 +16,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="./mugs-create.php">Ajouter un mug</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="./mugs-delete.php">Supprimer un mug</a>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>
