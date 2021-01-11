@@ -102,6 +102,20 @@
                         </div>
                     </div> -->
 
+                    <!-- <div class="row">
+                        <div class="col-md-5 mb-3">
+                            <label for="beverage">Parfait pour</label>
+                            <select class="custom-select d-block w-100" id="beverage" name="beverage" required>
+                                <option value="">Choisir une boisson</option>
+                                <option value="COF">Café</option>
+                                <option value="TEA">Thé</option>
+                            </select>
+                            <div class="invalid-feedback">
+                                Une boisson valide est requise.
+                            </div>
+                        </div>
+                    </div> -->
+
                     <hr class="mb-4">
 
                     <button class="btn btn-primary btn-lg btn-block" type="submit">Ajouter le mug</button>
